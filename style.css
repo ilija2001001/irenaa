@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pre-header{
+    background-color: black;
+    height: 38px;
+    color: white;
+}
+.pre-header .sek-meni {
+    list-style: none;
+}
+.pre-header .sek-meni li{
+    display: inline-block;
+    margin-left: 20px;
+    padding-top: 6px;
+}
+.pre-header .sek-meni li a{
+    color: gray;
+    text-decoration: none;
+}
+.main-nav .pri-meni{
+    list-style: none;  
+    margin-top: 40px;
+}
+.main-nav .pri-meni li{
+    display: inline-block;
+    margin-left: 25px;
+}
+.main-nav img {
+    margin-top: 10px;
+}
+.main-nav .pri-meni li a{
+    color: #767676;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 22px;
+}
+.main-nav .pri-meni li a:hover{
+    color: red;
+    transition: 0.3s;
+}
+.logo{
+    height: 90px;
+}
+.hero-sekcija{
+    background-color: gainsboro;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-top: 10px;
+}
+.hero-sekcija h1{
+    font-size: 46px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    margin-top: 300px;
+}
+.copy{
+    text-align: center;
+    font-size: 16px;
+}
+.phone{
+    height: 17px;
+}
+.ig{
+    height: 17px;
+}
+.pocetna{
+    margin-left: -50px;
+}
+.heroimg{
+   
+}
